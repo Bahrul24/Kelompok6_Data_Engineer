@@ -1,36 +1,19 @@
 # 🌟 rekomendasi game mobile berdasarkan rating, spesifikasi hp, dan umk daerah jawa timur 🌟
 
 ## 📂 Daftar Isi Folder
-- **Dokumen ** 📄
-  - 📘 Dokumentasi Awal Proyek Pengembangan Basis Data Toko Risky Bawang dan Palawija.pdf
-  - 📙 Fitur Database[1].pdf
-  - 📗 LAPORAN TUGAS UAS kelompok 2.pdf
-  - 📕 MANUAL PENGGUNAAN SISTEM MANAJEMEN.pdf
-- **Folder Basic** 📁
-  - 🔧 Codingan composer
-
----
-
-## Tech Stack
-![Database](https://img.shields.io/badge/database-MySQL-green) ![Framework](https://img.shields.io/badge/framework-Yii2-blue) ![Language](https://img.shields.io/badge/language-PHP-blue) ![Environment](https://img.shields.io/badge/environment-XAMPP-orange) ![Dependencies](https://img.shields.io/badge/dependencies-Composer-yellow)
-
----
-
-## Documentation
-For detailed documentation, refer to the files linked below (written in Indonesian):
-
-- 📘 [Dokumen Awal Proyek](#)
-- 📙 [Fitur Basis Data](#)
-- 📗 [Laporan Tugas UAS](#)
-- 📕 [Manual Penggunaan Sistem](#)
+- **README.md ** 📄
+- **UAS_Team_Project.ipynb** 📁
 
 ---
 
 ## 🤝 Contributors
 | Contributor       | GitHub Profile                                  |
 |-------------------|------------------------------------------------|
-| **Adia Sandra**  | [🌐 Profile](https://github.com/sandraalmeera) |
-| **Yessica**      | [🌐 Profile](https://github.com/yesicafapa)    |
+| **Dimas Bahrul**  | [🌐 Profile](https://github.com/sandraalmeera) |
+| **Saifullah Isnan R**      | [🌐 Profile](https://github.com/yesicafapa)    |
+| **Salva Mahardhika P**      | [🌐 Profile](https://github.com/yesicafapa)    |
+| **Iqbal Khafidz**      | [🌐 Profile](https://github.com/yesicafapa)    |
+| **Aditya Dimas**      | [🌐 Profile](https://github.com/yesicafapa)    |
 
 ---
 
